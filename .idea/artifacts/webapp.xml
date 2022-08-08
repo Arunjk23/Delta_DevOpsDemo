@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jpackage" name="webapp">
+    <output-path>$PROJECT_DIR$/out/artifacts/webapp</output-path>
+    <root id="root">
+      <element id="archive" name="webapp.jar">
+        <element id="module-output" name="webapp" />
+      </element>
+    </root>
+  </artifact>
+</component>
